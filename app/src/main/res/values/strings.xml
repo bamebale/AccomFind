@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AccomFind</string>
+    <string name="login">Sign In</string>
+    <string name="register">Register</string>
+    <string name="email">Email / Username</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Sign In</string>
+    <string name="search_hint">Search Gaborone...</string>
+    <string name="filter">Filter</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="reserve_pay">Reserve &amp; Pay Deposit</string>
+    <string name="reserved">Reserved</string>
+    <string name="available">Available</string>
+</resources>

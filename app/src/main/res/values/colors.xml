@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary_green">#1D6641</color>
+    <color name="primary_green_dark">#144D2F</color>
+    <color name="primary_green_light">#27854F</color>
+    <color name="accent_green">#4CAF50</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#1A1A1A</color>
+    <color name="card_dark">#252525</color>
+    <color name="card_darker">#1E1E1E</color>
+    <color name="surface_dark">#2A2A2A</color>
+
+    <!-- Text Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_hint">#777777</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Status Colors -->
+    <color name="status_available">#27AE60</color>
+    <color name="status_reserved">#E74C3C</color>
+
+    <!-- Input / Border -->
+    <color name="input_background">#2E2E2E</color>
+    <color name="divider">#333333</color>
+
+    <!-- Bottom Nav -->
+    <color name="nav_selected">#1D6641</color>
+    <color name="nav_unselected">#888888</color>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#4CAF50</color>
+    <color name="background_dark">#1A1A1A</color>
+    <color name="card_dark">#252525</color>
+    <color name="card_darker">#1E1E1E</color>
+    <color name="divider">#333333</color>
+    <color name="input_background">#2E2E2E</color>
+    <color name="nav_selected">#1D6641</color>
+    <color name="nav_unselected">#888888</color>
+    <color name="primary_green">#1D6641</color>
+    <color name="primary_green_dark">#144D2F</color>
+    <color name="primary_green_light">#27854F</color>
+    <color name="status_available">#27AE60</color>
+    <color name="status_reserved">#E74C3C</color>
+    <color name="surface_dark">#2A2A2A</color>
+    <color name="text_hint">#777777</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">AccomFind</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="available">Available</string>
+    <string name="email">Email / Username</string>
+    <string name="filter">Filter</string>
+    <string name="have_account">Already have an account? Sign In</string>
+    <string name="login">Sign In</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="reserve_pay">Reserve &amp; Pay Deposit</string>
+    <string name="reserved">Reserved</string>
+    <string name="search_hint">Search Gaborone...</string>
+    <style name="Theme.AccomFind" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/card_dark</item>
+    </style>
+    <style name="Widget.AccomFind.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary_green</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    <style name="Widget.AccomFind.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary_green</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textColor">@color/primary_green</item>
+    </style>
+</resources>

@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_payment.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_4.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_4.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_15.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_15.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.accomfind.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_chip_selected.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_chip_selected.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_item_chat_message.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_item_listing.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/item_listing.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.accomfind.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_ic_launcher_fg.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/ic_launcher_fg.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_chip_unselected.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_chip_unselected.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_button_green.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_button_green.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_13.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_13.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_10.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_10.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_9.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_9.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_detail.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_card.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_2.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_2.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_7.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_7.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_3.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_3.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_14.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_14.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_badge_available.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_badge_available.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_5.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_5.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_amenity_tag.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_amenity_tag.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_12.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_12.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_saved.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_saved.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_chat.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.accomfind.app-main-37:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.accomfind.app-main-37:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_8.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_8.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_input.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_11.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_11.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_6.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_6.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_badge_reserved.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_badge_reserved.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_house_img_1.png.flat",
+        "source": "com.accomfind.app-main-37:/drawable/house_img_1.png"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_profile.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/drawable_bg_image_overlay.xml.flat",
+        "source": "com.accomfind.app-main-37:/drawable/bg_image_overlay.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_filter.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_filter.xml"
+    },
+    {
+        "merged": "com.accomfind.app-merged_res-35:/layout_activity_receipt.xml.flat",
+        "source": "com.accomfind.app-main-37:/layout/activity_receipt.xml"
+    }
+]
